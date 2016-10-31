@@ -1,0 +1,25 @@
+{
+  "name": "radon-css",
+  "version": "0.0.0-development",
+  "description": "",
+  "license": "MIT",
+  "author": "Keith Cirkel",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithamus/radon-css.git"
+  },
+  "scripts": {
+    "semantic-release": "travis-after-all && semantic-release pre && npm publish && semantic-release post",
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "semantic-release": "^4.3.5",
+    "travis-after-all": "^1.4.4"
+  }
+}
