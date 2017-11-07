@@ -1,5 +1,8 @@
 # Radon CSS. Miniature DIY Radium
 
+> # No Longer Actively Maintained
+> If someone would like to take over maintainence, feel free to get in touch ([@keithamus on twitter](https://twitter.com/keithamus). I'll happily transfer this over.
+
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/radon-css'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/radon-css.svg' /></a>
 
 Radon is a lightweight version of Radium. It has no dependencies, does not
